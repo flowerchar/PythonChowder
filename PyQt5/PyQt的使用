@@ -1,0 +1,2 @@
+1.继承关系：QObject->QpaintDevice->QWidget->QFrame->QLabel
+2.QIcon(Qpixmap) QIcon可以强制转换一个QPixmap类型的为icon格式

@@ -1,0 +1,43 @@
+# Python大作业
+
+这两个实验已有配套论文，[点击此处](./souce/191091231罗伟力.doc)
+
+## 实验一
+
+> 人员描述信息在“人员信息.xlsx”表中，请完成以下任务：
+>
+> （1）把每一行的姓名和电话信息从A列中分别取出，姓名显示在B列，电话显示在C列，保存修改后的“人员信息.xlsx”；
+>
+> （2）汇总此表中所有人员的描述信息，统计出现次数最多的排名前十的词汇并把结果显示在控制台，以了解多数人员共有的性格特征。
+
+- 执行程序第一步
+
+![image-20220530195045856](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195045856.png)
+
+- ![image-20220530195249579](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195249579.png)
+
+  hhh，icon是我的校徽！
+
+- ![image-20220530195339888](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195339888.png)
+
+- ![image-20220530195402051](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195402051.png)
+
+- 同级目录下生成的词云图
+
+  ![image-20220530195446430](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195446430.png)
+
+
+
+## 实验二
+
+> 2、商品销售相关信息在“销售信息.xlsx”中，请使用pandas读入数据并完成以下任务：
+>
+> （1）去除完全重复的记录；
+>
+> （2）使用同一列的前一个值填充缺失值；
+>
+> （3）按活动编号分组显示各商品的销售总和；
+>
+> （4）在一张图中绘制“鼠标”和“键盘”的折线图（不同色），以方便对比分析。
+
+![image-20220530195547345](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195547345.png)

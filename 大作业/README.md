@@ -12,19 +12,19 @@
 
 - 执行程序第一步
 
-![image-20220530195045856](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195045856.png)
+![image-20220530195045856](.\pictures\image-20220530195045856.png)
 
-- ![image-20220530195249579](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195249579.png)
+- ![image-20220530195249579](.\pictures\image-20220530195249579.png)
 
   hhh，icon是我的校徽！
 
-- ![image-20220530195339888](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195339888.png)
+- ![image-20220530195339888](.\pictures\image-20220530195339888.png)
 
-- ![image-20220530195402051](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195402051.png)
+- ![image-20220530195402051](.\pictures\image-20220530195402051.png)
 
 - 同级目录下生成的词云图
 
-  ![image-20220530195446430](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195446430.png)
+  ![image-20220530195446430](.\pictures\image-20220530195446430.png)
 
 
 
@@ -40,4 +40,4 @@
 >
 > （4）在一张图中绘制“鼠标”和“键盘”的折线图（不同色），以方便对比分析。
 
-![image-20220530195547345](C:\Users\DELL\PycharmProjects\StageOne\大作业\pictures\image-20220530195547345.png)
+![image-20220530195547345](.\pictures\image-20220530195547345.png)
